@@ -37,7 +37,7 @@ function displayBreedProperties() {
         mode: "cors",
         headers: {
             "Content-Type": "application/json",
-            "x-api-key": "live_9trhxMMn8jdjRt6IEr0FxxzGU4dRF7FtwvJWHOVlRcmR5NWg7IFoRS2CuTi7E6fE"
+            "x-api-key": "removed"
         }
     };
 
